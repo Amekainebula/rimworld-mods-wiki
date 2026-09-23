@@ -18,5 +18,5 @@
 
 ## 来源与许可
 
-条目摘要依据所链接的模组作者公开页面整理。模组、美术、游戏内容与商标归各自权利人所有。网站代码采用 MIT License。本站与 Ludeon Studios、灰机 Wiki 及模组作者无隶属关系。
+条目摘要依据所链接的模组作者公开页面整理。模组、美术、游戏内容与商标归各自权利人所有。网站代码采用 MIT License；`assets/rimworld-logo.png` 是 Ludeon Studios 的游戏标志，不属于 MIT 授权范围，来源见 `assets/README.md`。本站与 Ludeon Studios、灰机 Wiki 及模组作者无隶属关系。
 

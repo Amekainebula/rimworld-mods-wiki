@@ -21,7 +21,7 @@ button { cursor: pointer; }
 .site-header { height: 72px; display: flex; align-items: center; gap: 30px; padding: 0 32px; background: white; border-bottom: 1px solid #eaecf0; }
 .site-brand { min-width: 250px; display: flex; gap: 12px; align-items: center; color: var(--text); }
 .site-brand:hover { text-decoration: none; }
-.brand-icon { width: 40px; height: 40px; display: grid; place-items: center; border: 2px solid #546e51; color: #546e51; border-radius: 50%; font: bold 24px Georgia, serif; }
+.brand-icon { width: 40px; height: 40px; object-fit: contain; flex: none; }
 .site-brand strong { display: block; font: 600 18px Georgia, "Noto Serif CJK SC", "Songti SC", serif; letter-spacing: .02em; }
 .site-brand small { display: block; color: var(--muted); font-size: 9px; letter-spacing: .1em; }
 .site-search { display: flex; width: min(500px, 40vw); height: 36px; }
