@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="zh">
+  <siteinfo>
+    <sitename>边缘世界模组维基</sitename>
+    <dbname>rimworldmodswiki</dbname>
+    <base>https://wiki.ame-kai.com/wiki/首页</base>
+    <generator>MediaWiki import package</generator>
+    <case>first-letter</case>
+    <namespaces><namespace key="0" case="first-letter" /><namespace key="14" case="first-letter">Category</namespace></namespaces>
+  </siteinfo>
+  <page>
+    <title>首页</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1419">= 欢迎来到边缘世界模组维基 =
+这里整理《边缘世界》社区种族模组的中文资料。目前收录六个种族条目。读者可以从下方列表或[[:Category:种族模组|种族模组分类]]进入条目。
+
+== 种族条目 ==
+* [[鼠族]]（NewRatkinPlus）——以农业与矿业见长的鼠类人形种族，配有独立装备、研究与派系内容。
+* [[沃芬族]]（Wolfein Race）——拥有夜视与敏锐听觉的犬科人形种族，带有企业统治背景与相关内容。
+* [[米利拉族]]（Milira Race）——拥有羽翼的古老种族，核心内容侧重战斗、派系、研究和机械单位。
+* [[美狐族]]（Miho, the celestial fox）——以狐科人形为主题，包含独特身体设定、文明背景与技术内容。
+* [[绮罗族]]（Kiiro Race）——带有猫耳与猫尾特征的本地种族，拥有中世纪阶段的社会与生活风格。
+* [[月兔族]]（Rabbie The Moonrabbit race）——来自月球城市的兔科人形种族，擅长研究、射击、医疗与药物合成。
+
+== 参与编辑 ==
+登录后打开条目，点击“编辑”即可使用可视化编辑器。修订模组信息时，请附原始来源、适用游戏版本和核对日期。
+
+== 关于本站 ==
+本站由玩家维护，与 Ludeon Studios、灰机 Wiki 及模组作者无隶属关系。另见[https://rimworld.huijiwiki.com/wiki/首页 RimWorld 中文 Wiki]。
+</text>
+      <sha1>rwzuu2x3maihshkr1w7y53wztbm1yni</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>2</id>
+    <redirect title="首页" />
+    <revision>
+      <id>2</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">#REDIRECT [[首页]]</text>
+      <sha1>p1w60mdluzrov6nrny6c8q3o8o3x12s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>鼠族</title>
+    <ns>0</ns>
+    <id>3</id>
+    <revision>
+      <id>3</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1747">{| class=&quot;wikitable&quot; style=&quot;float:right; width:300px; max-width:100%; margin:0 0 1em 1.4em;&quot;
+|+ &apos;&apos;&apos;鼠族&apos;&apos;&apos;
+|-
+! scope=&quot;row&quot; | 模组
+| NewRatkinPlus
+|-
+! scope=&quot;row&quot; | 种族类别
+| [[:Category:啮齿类人形|啮齿类人形]]
+|-
+! scope=&quot;row&quot; | 游戏版本
+| 1.5、1.6
+|-
+! scope=&quot;row&quot; | 前置模组
+| Harmony、Humanoid Alien Races
+|-
+! scope=&quot;row&quot; | 所需 DLC
+| 工坊页未列出
+|-
+! scope=&quot;row&quot; | 工坊页面
+| [https://steamcommunity.com/sharedfiles/filedetails/?id=1578693166 Steam Workshop]
+|-
+! scope=&quot;row&quot; | 核对日期
+| 2026-09-23
+|}
+&apos;&apos;&apos;鼠族&apos;&apos;&apos;（Ratkin）是《边缘世界》社区模组“NewRatkinPlus”加入的种族。以农业与矿业见长的鼠类人形种族，配有独立装备、研究与派系内容。
+
+== 概述 ==
+鼠族以小型聚落和鲜明的中世纪风格闻名。本体不仅加入新种族，也扩充了武器、服装、研究、派系与殖民地建筑。
+
+本页概述按工坊说明整理；扩展内容、兼容情况和游戏内表现可能随版本变化。
+
+== 模组内容 ==
+* 农业与采矿方向的种族设定
+* 专属武器、服装与研究
+* 种族派系、事件和故事讲述者
+* 生产与防御类建筑
+
+== 安装需求 ==
+* &apos;&apos;&apos;前置模组：&apos;&apos;&apos;Harmony、Humanoid Alien Races
+* &apos;&apos;&apos;所需 DLC：&apos;&apos;&apos;工坊页未列出
+* &apos;&apos;&apos;适用游戏版本：&apos;&apos;&apos;1.5、1.6
+
+订阅前请以作者最新的工坊说明为准。
+
+== 相关扩展 ==
+* [https://rimmods.com/mods/ratkin-gene-expanded Ratkin Gene Expanded]（基因扩展）：为鼠族增加异种类型与能力。
+
+== 资料来源 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1578693166 NewRatkinPlus — Steam Workshop]（核对日期：2026-09-23）
+
+[[Category:种族模组]]
+[[Category:啮齿类人形]]
+</text>
+      <sha1>n7uz8ndfbwul5wsmhd5boeyiidiz0n3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>沃芬族</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1645">{| class=&quot;wikitable&quot; style=&quot;float:right; width:300px; max-width:100%; margin:0 0 1em 1.4em;&quot;
+|+ &apos;&apos;&apos;沃芬族&apos;&apos;&apos;
+|-
+! scope=&quot;row&quot; | 模组
+| Wolfein Race
+|-
+! scope=&quot;row&quot; | 种族类别
+| [[:Category:犬科人形|犬科人形]]
+|-
+! scope=&quot;row&quot; | 游戏版本
+| 1.5、1.6
+|-
+! scope=&quot;row&quot; | 前置模组
+| Humanoid Alien Races、Ancot Library
+|-
+! scope=&quot;row&quot; | 所需 DLC
+| 工坊页未列出
+|-
+! scope=&quot;row&quot; | 工坊页面
+| [https://steamcommunity.com/sharedfiles/filedetails/?id=3473140562 Steam Workshop]
+|-
+! scope=&quot;row&quot; | 核对日期
+| 2026-09-23
+|}
+&apos;&apos;&apos;沃芬族&apos;&apos;&apos;（Wolfein）是《边缘世界》社区模组“Wolfein Race”加入的种族。拥有夜视与敏锐听觉的犬科人形种族，带有企业统治背景与相关内容。
+
+== 概述 ==
+沃芬族擅长在黑暗环境中活动，设定围绕一个从军工承包商发展而来的大型企业展开。适合想加入新种族、派系与科技风格内容的玩家。
+
+前置框架与适用版本以工坊页面当前信息为准。
+
+== 模组内容 ==
+* 夜视和强化听觉设定
+* 狼耳与蓬松尾巴等外观特征
+* 以巨型企业为核心的世界观
+* 有独立前置框架要求
+
+== 安装需求 ==
+* &apos;&apos;&apos;前置模组：&apos;&apos;&apos;Humanoid Alien Races、Ancot Library
+* &apos;&apos;&apos;所需 DLC：&apos;&apos;&apos;工坊页未列出
+* &apos;&apos;&apos;适用游戏版本：&apos;&apos;&apos;1.5、1.6
+
+订阅前请以作者最新的工坊说明为准。
+
+== 相关扩展 ==
+暂无已整理的相关扩展模组。
+
+== 资料来源 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=3473140562 Wolfein Race — Steam Workshop]（核对日期：2026-09-23）
+
+[[Category:种族模组]]
+[[Category:犬科人形]]
+</text>
+      <sha1>jckupw3tjk3obi41d823w8gdnse48u4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>米利拉族</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>5</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1948">{| class=&quot;wikitable&quot; style=&quot;float:right; width:300px; max-width:100%; margin:0 0 1em 1.4em;&quot;
+|+ &apos;&apos;&apos;米利拉族&apos;&apos;&apos;
+|-
+! scope=&quot;row&quot; | 模组
+| Milira Race
+|-
+! scope=&quot;row&quot; | 种族类别
+| [[:Category:翼人种族|翼人种族]]
+|-
+! scope=&quot;row&quot; | 游戏版本
+| 1.5、1.6
+|-
+! scope=&quot;row&quot; | 前置模组
+| Ancot Library
+|-
+! scope=&quot;row&quot; | 所需 DLC
+| Royalty、Biotech
+|-
+! scope=&quot;row&quot; | 工坊页面
+| [https://steamcommunity.com/sharedfiles/filedetails/?id=3256974620 Steam Workshop]
+|-
+! scope=&quot;row&quot; | 核对日期
+| 2026-09-23
+|}
+&apos;&apos;&apos;米利拉族&apos;&apos;&apos;（Milira）是《边缘世界》社区模组“Milira Race”加入的种族。拥有羽翼的古老种族，核心内容侧重战斗、派系、研究和机械单位。
+
+== 概述 ==
+米利拉族本体包含独特敌人与袭击、研究内容及多种机械单位。注意：Milian 是米利拉相关的机械单位，并非另一个种族名称。
+
+本页将米利拉种族与 Milian 机械单位分开描述；DLC 和关联模组请以作者页面为准。
+
+== 模组内容 ==
+* 独立的种族与派系内容
+* 特色袭击和战斗挑战
+* 可制造、培养并改造多种 Milian 机械单位
+* 需要 Royalty 与 Biotech DLC
+
+== 安装需求 ==
+* &apos;&apos;&apos;前置模组：&apos;&apos;&apos;Ancot Library
+* &apos;&apos;&apos;所需 DLC：&apos;&apos;&apos;Royalty、Biotech
+* &apos;&apos;&apos;适用游戏版本：&apos;&apos;&apos;1.5、1.6
+
+订阅前请以作者最新的工坊说明为准。
+
+== 相关扩展 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=3257000248 Milira Race Gene Patch]（基因补丁）：为米利拉族增加基因与异种类型；需要 Biotech。
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=3496629836 Milira Tech: Milian Modification]（机械扩展）：扩展 Milian 机械单位的改造与升级。
+
+== 资料来源 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=3256974620 Milira Race — Steam Workshop]（核对日期：2026-09-23）
+
+[[Category:种族模组]]
+[[Category:翼人种族]]
+</text>
+      <sha1>frvrh394e4dqec9giw69um81k71rvg8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>美狐族</title>
+    <ns>0</ns>
+    <id>6</id>
+    <revision>
+      <id>6</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1699">{| class=&quot;wikitable&quot; style=&quot;float:right; width:300px; max-width:100%; margin:0 0 1em 1.4em;&quot;
+|+ &apos;&apos;&apos;美狐族&apos;&apos;&apos;
+|-
+! scope=&quot;row&quot; | 模组
+| Miho, the celestial fox
+|-
+! scope=&quot;row&quot; | 种族类别
+| [[:Category:狐科人形|狐科人形]]
+|-
+! scope=&quot;row&quot; | 游戏版本
+| 1.3、1.4、1.5、1.6
+|-
+! scope=&quot;row&quot; | 前置模组
+| 工坊页未列出
+|-
+! scope=&quot;row&quot; | 所需 DLC
+| Royalty、Ideology、Biotech
+|-
+! scope=&quot;row&quot; | 工坊页面
+| [https://steamcommunity.com/sharedfiles/filedetails/?id=2816826107 Steam Workshop]
+|-
+! scope=&quot;row&quot; | 核对日期
+| 2026-09-23
+|}
+&apos;&apos;&apos;美狐族&apos;&apos;&apos;（Miho）是《边缘世界》社区模组“Miho, the celestial fox”加入的种族。以狐科人形为主题，包含独特身体设定、文明背景与技术内容。
+
+== 概述 ==
+美狐族的设定将狐类特征与超凡科技结合，拥有自己的文明与装备体系。该模组要求多个 DLC，订阅前建议先确认自己的游戏内容。
+
+内容和 DLC 要求按当前工坊页面整理；不同版本可能调整。
+
+== 模组内容 ==
+* 具有独特身体与能量设定
+* 围绕星辰与能量展开的文化背景
+* 种族专属科技文明与装备
+* 需要 Royalty、Ideology 与 Biotech
+
+== 安装需求 ==
+* &apos;&apos;&apos;前置模组：&apos;&apos;&apos;工坊页未列出
+* &apos;&apos;&apos;所需 DLC：&apos;&apos;&apos;Royalty、Ideology、Biotech
+* &apos;&apos;&apos;适用游戏版本：&apos;&apos;&apos;1.3、1.4、1.5、1.6
+
+订阅前请以作者最新的工坊说明为准。
+
+== 相关扩展 ==
+暂无已整理的相关扩展模组。
+
+== 资料来源 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=2816826107 Miho, the celestial fox — Steam Workshop]（核对日期：2026-09-23）
+
+[[Category:种族模组]]
+[[Category:狐科人形]]
+</text>
+      <sha1>gkkozo2y0dqoawrft5r8av1zrtag5sr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>绮罗族</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>7</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1903">{| class=&quot;wikitable&quot; style=&quot;float:right; width:300px; max-width:100%; margin:0 0 1em 1.4em;&quot;
+|+ &apos;&apos;&apos;绮罗族&apos;&apos;&apos;
+|-
+! scope=&quot;row&quot; | 模组
+| Kiiro Race
+|-
+! scope=&quot;row&quot; | 种族类别
+| [[:Category:猫科人形|猫科人形]]
+|-
+! scope=&quot;row&quot; | 游戏版本
+| 1.4、1.5、1.6
+|-
+! scope=&quot;row&quot; | 前置模组
+| Ancot Library
+|-
+! scope=&quot;row&quot; | 所需 DLC
+| 工坊页未列出
+|-
+! scope=&quot;row&quot; | 工坊页面
+| [https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143 Steam Workshop]
+|-
+! scope=&quot;row&quot; | 核对日期
+| 2026-09-23
+|}
+&apos;&apos;&apos;绮罗族&apos;&apos;&apos;（Kiiro）是《边缘世界》社区模组“Kiiro Race”加入的种族。带有猫耳与猫尾特征的本地种族，拥有中世纪阶段的社会与生活风格。
+
+== 概述 ==
+绮罗族生活在 RimWorld 星球已有很长时间，社会科技发展到中世纪阶段。基础种族模组不要求 DLC；Biotech 基因内容由单独补丁提供。
+
+请区分基础种族模组与可选基因补丁；基因补丁需要 Biotech。
+
+== 模组内容 ==
+* 猫耳与猫尾的种族外观
+* 以休闲生活与社交为鲜明设定
+* 基础模组无需 DLC
+* Biotech 基因内容为可选扩展
+
+== 安装需求 ==
+* &apos;&apos;&apos;前置模组：&apos;&apos;&apos;Ancot Library
+* &apos;&apos;&apos;所需 DLC：&apos;&apos;&apos;工坊页未列出
+* &apos;&apos;&apos;适用游戏版本：&apos;&apos;&apos;1.4、1.5、1.6
+
+订阅前请以作者最新的工坊说明为准。
+
+== 相关扩展 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=2988200826 Kiiro Race Gene Patch]（基因补丁）：增加绮罗族的遗传基因；需要 Biotech。
+* [https://steamcommunity.com/workshop/filedetails/?id=3036480100 Kiiro Story: Events Expanded]（事件与派系）：增加绮罗族派系事件、任务与互动。
+
+== 资料来源 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143 Kiiro Race — Steam Workshop]（核对日期：2026-09-23）
+
+[[Category:种族模组]]
+[[Category:猫科人形]]
+</text>
+      <sha1>5nq9ipl6fk82gii3stpsb6eg34tib91</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>月兔族</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>8</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1723">{| class=&quot;wikitable&quot; style=&quot;float:right; width:300px; max-width:100%; margin:0 0 1em 1.4em;&quot;
+|+ &apos;&apos;&apos;月兔族&apos;&apos;&apos;
+|-
+! scope=&quot;row&quot; | 模组
+| Rabbie The Moonrabbit race
+|-
+! scope=&quot;row&quot; | 种族类别
+| [[:Category:兔科人形|兔科人形]]
+|-
+! scope=&quot;row&quot; | 游戏版本
+| 1.4、1.5、1.6
+|-
+! scope=&quot;row&quot; | 前置模组
+| Humanoid Alien Races
+|-
+! scope=&quot;row&quot; | 所需 DLC
+| 工坊页未列出
+|-
+! scope=&quot;row&quot; | 工坊页面
+| [https://steamcommunity.com/sharedfiles/filedetails/?id=1837246563 Steam Workshop]
+|-
+! scope=&quot;row&quot; | 核对日期
+| 2026-09-23
+|}
+&apos;&apos;&apos;月兔族&apos;&apos;&apos;（Rabbie）是《边缘世界》社区模组“Rabbie The Moonrabbit race”加入的种族。来自月球城市的兔科人形种族，擅长研究、射击、医疗与药物合成。
+
+== 概述 ==
+月兔族拥有先进的迁徙文明和独特的药物系统，强项集中在研究、远程战斗和医疗。较小的体型也带来近战、搬运和采矿方面的限制。
+
+种族特性为模组作者说明摘要；实际平衡性与兼容性受版本和组合模组影响。
+
+== 模组内容 ==
+* 研究、射击、医疗方向的种族特性
+* 专属药物和装备体系
+* 月球城市与迁徙文明背景
+* 体型较小，近战和搬运有相应取舍
+
+== 安装需求 ==
+* &apos;&apos;&apos;前置模组：&apos;&apos;&apos;Humanoid Alien Races
+* &apos;&apos;&apos;所需 DLC：&apos;&apos;&apos;工坊页未列出
+* &apos;&apos;&apos;适用游戏版本：&apos;&apos;&apos;1.4、1.5、1.6
+
+订阅前请以作者最新的工坊说明为准。
+
+== 相关扩展 ==
+暂无已整理的相关扩展模组。
+
+== 资料来源 ==
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1837246563 Rabbie The Moonrabbit race — Steam Workshop]（核对日期：2026-09-23）
+
+[[Category:种族模组]]
+[[Category:兔科人形]]
+</text>
+      <sha1>21l6yognf7rdid05xe56k3l7jt4ldkm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:种族模组</title>
+    <ns>14</ns>
+    <id>9</id>
+    <revision>
+      <id>9</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="51">收录《边缘世界》社区种族模组条目。</text>
+      <sha1>dcv9gl173h88n2pgkr5tku9l1kb59ej</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:啮齿类人形</title>
+    <ns>14</ns>
+    <id>10</id>
+    <revision>
+      <id>10</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63">收录啮齿类人形相关条目。
+
+[[Category:种族模组]]</text>
+      <sha1>dlepyls9q84lgurqt5bic1js5y7gtq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:犬科人形</title>
+    <ns>14</ns>
+    <id>11</id>
+    <revision>
+      <id>11</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60">收录犬科人形相关条目。
+
+[[Category:种族模组]]</text>
+      <sha1>ro20mrxztzh4rkmgbtg8k0svnxo5rz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:翼人种族</title>
+    <ns>14</ns>
+    <id>12</id>
+    <revision>
+      <id>12</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60">收录翼人种族相关条目。
+
+[[Category:种族模组]]</text>
+      <sha1>49o3e5b82be7j7zi4f4qel31xknqeyz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:狐科人形</title>
+    <ns>14</ns>
+    <id>13</id>
+    <revision>
+      <id>13</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60">收录狐科人形相关条目。
+
+[[Category:种族模组]]</text>
+      <sha1>hmxh1pvyeodwit9t1ey2v55omjxwwsz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:猫科人形</title>
+    <ns>14</ns>
+    <id>14</id>
+    <revision>
+      <id>14</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60">收录猫科人形相关条目。
+
+[[Category:种族模组]]</text>
+      <sha1>p9xwafeszeyi6bu875gwslw67wlgqg8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:兔科人形</title>
+    <ns>14</ns>
+    <id>15</id>
+    <revision>
+      <id>15</id>
+      <timestamp>2026-09-23T07:27:58Z</timestamp>
+      <contributor><username>Amekainebula</username></contributor>
+      <comment>从开源静态站迁入初始条目</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60">收录兔科人形相关条目。
+
+[[Category:种族模组]]</text>
+      <sha1>izracyznxie6ggaoxgcj2cnw9wi5j42</sha1>
+    </revision>
+  </page>
+</mediawiki>
