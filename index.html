@@ -1,37 +1,32 @@
 <!doctype html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#111a17" />
-    <meta name="description" content="RimWorld 社区种族模组中文资料站。收录鼠族、沃芬族、米利拉族、美狐族、绮罗族与月兔族。" />
-    <title>边缘种族档案 · RimWorld 模组维基</title>
-    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="./styles.css" />
-    <script type="module" src="./src/app.js"></script>
-  </head>
-  <body>
-    <div class="site-shell">
-      <header class="topbar">
-        <a class="brand" href="#/" aria-label="边缘种族档案首页">
-          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
-          <span class="brand-copy"><strong>边缘种族档案</strong><small>RIMWORLD · COMMUNITY MOD WIKI</small></span>
-        </a>
-        <nav class="main-nav" aria-label="主导航">
-          <a class="nav-link active" href="#/">种族索引</a>
-          <a class="nav-link" href="#/about">收录原则</a>
-          <a class="nav-link" href="https://github.com/Amekainebula/rimworld-mods-wiki" target="_blank" rel="noreferrer">GitHub ↗</a>
-        </nav>
-        <a class="header-cta" href="#/about">参与编辑 <span>↗</span></a>
-      </header>
-
-      <main id="app" tabindex="-1" aria-live="polite"></main>
-
-      <footer class="site-footer">
-        <a class="footer-brand" href="#/">边缘种族档案 <span>RIMWORLD MOD WIKI</span></a>
-        <p>由玩家整理的社区模组资料 · 独立项目，与 Ludeon Studios 及灰机 Wiki 无隶属关系</p>
-        <div class="footer-links"><a href="#/about">编辑与来源说明</a><a href="https://github.com/Amekainebula/rimworld-mods-wiki" target="_blank" rel="noreferrer">开源仓库 ↗</a></div>
-      </footer>
-    </div>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f8f9fa" />
+  <meta name="description" content="RimWorld 社区种族模组中文维基，收录六个种族模组的资料、前置需求与来源。" />
+  <title>首页 - 边缘世界模组维基</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script type="module" src="./src/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">跳转到正文</a>
+  <header class="site-header">
+    <button class="menu-button" id="menu-button" type="button" aria-label="展开导航" aria-expanded="false">☰</button>
+    <a class="site-brand" href="#/" aria-label="边缘世界模组维基首页"><span class="brand-icon">R</span><span><strong>边缘世界模组维基</strong><small>RIMWORLD MODS WIKI</small></span></a>
+    <form class="site-search" id="site-search" role="search"><label class="visually-hidden" for="search-input">搜索维基</label><input id="search-input" type="search" placeholder="搜索维基条目" autocomplete="off" /><button type="submit">搜索</button></form>
+    <a class="header-github" href="https://github.com/Amekainebula/rimworld-mods-wiki" target="_blank" rel="noreferrer">GitHub 仓库 ↗</a>
+  </header>
+  <div class="wiki-layout">
+    <aside class="site-sidebar" id="site-sidebar" aria-label="站点导航">
+      <nav><h2>导航</h2><a href="#/">首页</a><a href="#/category/种族模组">种族模组</a><a href="#/about">关于本站</a></nav>
+      <nav><h2>种族条目</h2><div id="sidebar-races"></div></nav>
+      <nav><h2>参与</h2><a href="https://github.com/Amekainebula/rimworld-mods-wiki/issues/new" target="_blank" rel="noreferrer">报告问题</a><a href="https://github.com/Amekainebula/rimworld-mods-wiki/pulls" target="_blank" rel="noreferrer">提交修订</a></nav>
+    </aside>
+    <main id="main-content" class="main-content" tabindex="-1"><div id="app"></div></main>
+    <aside class="page-sidebar" id="page-sidebar" aria-label="本页目录"></aside>
+  </div>
+  <footer class="site-footer"><p>本站由玩家维护，与 Ludeon Studios、灰机 Wiki 及模组作者无隶属关系。</p><p><a href="#/about">关于本站</a> · <a href="https://github.com/Amekainebula/rimworld-mods-wiki" target="_blank" rel="noreferrer">开源仓库</a></p></footer>
+</body>
 </html>
