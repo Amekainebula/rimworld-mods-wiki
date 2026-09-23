@@ -119,5 +119,6 @@ ${pages.map(pageXml).join("\n")}
 </mediawiki>
 `;
 writeFileSync(resolve(directory, "import.xml"), output, "utf8");
+writeFileSync(resolve(directory, "首页.wiki"), home, "utf8");
 console.log(`生成 ${pages.length} 个页面：mediawiki/import.xml`);
 
